@@ -73,7 +73,7 @@ plt.show()
 ```
 ## Output:
 ## ORIGINAL IMAGE:
-![mase](https://github.com/DEVADARSHAN2/EDGE-DETECTION/assets/119432150/282a92f8-ad36-411a-93b3-f70158a89fb9)
+![Screenshot 2024-04-02 114731](https://github.com/DEVADARSHAN2/EDGE-DETECTION/assets/119432150/66d2b9c3-ecf2-4bce-8030-18f0eeb57687)
 ### SOBEL EDGE DETECTOR:
 ![Screenshot 2024-04-02 113222](https://github.com/DEVADARSHAN2/EDGE-DETECTION/assets/119432150/c22a78c6-ab0c-4f31-bf6f-ec75e7d80ecf)
 ![Screenshot 2024-04-02 113227](https://github.com/DEVADARSHAN2/EDGE-DETECTION/assets/119432150/d1a8a9d3-66f1-4abd-a6fb-dd6c63b2d246)
